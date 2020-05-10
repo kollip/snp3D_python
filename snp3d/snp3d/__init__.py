@@ -1,0 +1,1 @@
+from snp3d.read import *
